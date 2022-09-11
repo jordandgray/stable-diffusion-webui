@@ -3,7 +3,7 @@
 # Starts the gui using the conda env
 #
 
-ENV_NAME="ldm"
+ENV_NAME="the_env"
 ENV_FILE="environment.yaml"
 ENV_UPDATED=0
 ENV_MODIFIED=$(date -r $ENV_FILE "+%s")
